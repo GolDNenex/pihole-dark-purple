@@ -22,12 +22,5 @@ git clone https://github.com/GolDNenex/pihole-dark-purple
 cp -r pihole-dark-purple/* /path/to/www/html/admin/
 ```
 
-### Manually:
-
-```
-git clone https://github.com/GolDNenex/pihole-dark-purple
-cp -r pihole-dark-purple/* /path/to/www/html/admin/
-```
-
 ## Handling Pi-hole Update
 Pi-hole update WILL remove the php file `theme.php` responsible for listing themes and applying them. For updating, use `update-helper.sh`. This script work regardless of its location so you can alias it for example.
