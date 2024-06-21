@@ -1,5 +1,9 @@
 # Pi-hole dark-purple theme
 
+![Preview](https://raw.githubusercontent.com/GolDNenex/pihole-dark-purple/main/screenshots/screenshot_2.png)
+
+[Screenshot 2](https://raw.githubusercontent.com/GolDNenex/pihole-dark-purple/main/screenshots/screenshot_1.png) | [Screenshot 3](https://raw.githubusercontent.com/GolDNenex/pihole-dark-purple/main/screenshots/screenshot_3.png) | [Screenshot 4](https://raw.githubusercontent.com/GolDNenex/pihole-dark-purple/main/screenshots/screenshot_4.png)
+
 A dark theme with purple accent for [Pi-hole](https://pi-hole.net/)
 
 ## Installation
