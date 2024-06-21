@@ -728,7 +728,7 @@ fieldset[disabled] .btn-default:hover {
 .open > .dropdown-toggle.btn-primary:focus,
 .open > .dropdown-toggle.btn-primary:hover {
 	color: rgb(232, 230, 227);
-	background-color: rgb(26, 62, 93);
+	background-color: rgb(51, 41, 75);
 	border-color: rgb(126, 117, 104);
 }
 .btn-primary.disabled.focus,
